@@ -2,7 +2,8 @@
 Using IDW and RBF to achieve image warping.
 
 1.Problem Description
-    The process of warping an image can devide into two steps:
+
+The process of warping an image can devide into two steps:
 (1)Compute the desired displacement of all pixels in the source image.
 (2)Resample the image into create the output image.
 
