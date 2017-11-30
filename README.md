@@ -1,3 +1,7 @@
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 # ImageWarping
 Using IDW and RBF to achieve image warping.
 
@@ -15,4 +19,5 @@ the image pixel positions or by using a set of some control points that specify 
 
 We can formulate the problem of image deformation in terms of input and output:
 
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+$$ evidence\_{i}=\sum\_{j}W\_{ij}x\_{j}+b\_{i} $$
+Ⅱ
