@@ -15,3 +15,4 @@ the image pixel positions or by using a set of some control points that specify 
 
 We can formulate the problem of image deformation in terms of input and output:
     
+$\frac{x+y}{y+z}$
